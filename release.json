@@ -1,5 +1,5 @@
 {
-  "digest": "5c24cae5d5255215fb1344a6cebf0df1e895545871c89e317c141b9a00d4a46b",
+  "digest": "38a96d68769373913291cbeef97f168445685a6672c71b8b1f5cc7296334e0c3",
   "files": {
     ".nojekyll": {
       "bytes": 0,
@@ -134,8 +134,8 @@
       "sha256": "037b75bd094958c5c43f75cbfcaba478f7d866e35b825a9673ae3c9b00a166da"
     },
     "assets/vorofacet-paper.pdf": {
-      "bytes": 1973466,
-      "sha256": "8bde8b39c4d46ad254dbb94b4c2e51c5cc17aa5d00e743d073e1a66087c733c4"
+      "bytes": 47037609,
+      "sha256": "55ce02e9d8f16ffd35ded407b386b7dede0cdbac664bb1257cb1bbf28316fc0b"
     },
     "data.js": {
       "bytes": 2445,
@@ -150,8 +150,8 @@
       "sha256": "0377401a41f7f674e8cd259ae13bf7ec5911a4be5ee6b2773c4f8462314e4246"
     },
     "index.html": {
-      "bytes": 27368,
-      "sha256": "8c9d59a8bfe3492f4011fba924944809ffa12fcd555d7449b8c5614776abccf7"
+      "bytes": 27398,
+      "sha256": "71f88a8e6848b733a8604e866ce1dd7430293f0abe497cabaeef71b6440f028a"
     },
     "mesh-worker.js": {
       "bytes": 2920,
